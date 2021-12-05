@@ -30,7 +30,7 @@ The selected dataset contains over two decades of statistics referencing each pl
 ### Our Most Interesting Findings: 
 
 #### How Weight and Height Affect Players' Performance? 
-![Average points per weight class](Average points per weight class.png)
+![Average points per weight class](Average-points-per-weight-class.png)
 * From the scatter plot shown we can see a correlation of weight with points, players in the higher ranges of 140-160 kgs seem to have the higher points per game, where most of the players seem to have weights between 80-120 kgs. There does not seem to be a causation relationship but rather a correlation between average points and weight. We chose a scatter plot as it was the best option to easily view this specific data for users as it showed differences in points better.
 
 ![Average points per height class](Average points per height class.png)
