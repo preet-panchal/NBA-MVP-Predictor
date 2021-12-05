@@ -5,7 +5,7 @@
 
 In order to reproduce the results of the code, please follow the steps below:
 
-1) Clone repository
+1) Clone repository or download 'zip' compressed file of entire repository
 2) Open "final-project-group16.ipynb" jupyter notebook file
 3) Click Run-All
 
