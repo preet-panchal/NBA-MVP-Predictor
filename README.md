@@ -25,7 +25,7 @@ The selected dataset, “NBA Players” represents the data of NBA players from 
 ### About the Dataset: 
 The selected dataset contains over two decades of statistics referencing each player that was part of the NBA from 1996-2020. The data set contains over two decades of data on each player who has been part of an NBA teams' roster. It captures demographic variables such as age, height, weight and place of birth, biographical details like the team played for, draft year and round. In addition, it has basic box score statistics such as games played, average number of points, rebounds, assists, etc. In collection, the data set has 11700 rows and 22 columns each holding vast amounts of information pertaining to the NBA. If you want to learn more about how to improve the abilities and performance of NBA player, you're in for a treat! 
 
-## DICUSSION
+## DISCUSSION
 
 ### Our Most Interesting Findings: 
 
@@ -45,7 +45,7 @@ The selected dataset contains over two decades of statistics referencing each pl
 
 ![Highest average assists per first overall player](Highest-average-assists-per-first-overall-player.png)
 
-![Highest average rebounds per first overall player](Highest-average-rebounds-per-first-overall-player.png)
+![Highest average shooting percentage per first overall player](Highest-average-shooting-percentage-per-first-overall-player.png)
 
 ![Highest average net rating per first overall player](Highest-average-net-rating-per-first-overall-player.png)
 * To compare first-round, number-one player picks from each draft year with the most points, rebounds, assists, net rating, and shooting percentage respectively, our approach was to use boolean indexing to filter out for players whose draft number is 1 and then group by the player name and find the mean value of points, rebounds, assists, net rating, and shooting percentage. This allowed us to easily plot the data as a bar plot and found that the highest average points of first overall players was Lebron James with about 27 PPG (points per game), the highest average assists of first overall players was John Wall with about 9 APG (assists per game), the highest average rebounds of first overall players was Dwight Howard with a little under 12 RPG (rebounds per game, the highest average net rating of first overall players was David Robinson with about 10 points per game, the highest average team shooting percentage of first overall players was Zion Williamson with about 0.7%. The challenge we faced for this task was to filter out players who were first overall draft picks and to retrieve data that can be used in the mean() function, as originally the datasets values were a string type, in order to correct this during the data cleaning process we converted the data type of the values of age to integers using the astype() function for dataframes. This data will also be useful later on for potential data science applications, as we will see in one of our confusion matrices.
