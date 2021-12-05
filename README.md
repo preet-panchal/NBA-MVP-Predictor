@@ -3,7 +3,7 @@
 
 ## ABOUT US
 * Hassan Chakaroun (Hassan-Chakaroun)
-* .Mohammed (Mohammad0104)
+* .Mohammad (Mohammad0104)
 * Preet Panchal (preet-panchal)
 * Eihab Syed (EihabSyed)
 
