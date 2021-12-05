@@ -2,7 +2,7 @@
 (Repository: NBA-Star-Predictor)
 
 ## ABOUT US
-* Hassan Chakaroun (Hassn-Chakaroun)
+* Hassan Chakaroun (Hassan-Chakaroun)
 * .Mohammad (Mohammad0104)
 * Preet Panchal (preet-panchal)
 * Eihab Syed (EihabSyed)
