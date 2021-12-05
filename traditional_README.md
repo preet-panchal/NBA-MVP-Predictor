@@ -3,7 +3,7 @@
 
 ## INSTRUCTIONS: 
 
-In order to reproduce the results found follow these steps:
+In order to reproduce the results of the code, please follow the steps below:
 
 1) Clone repository
 2) Open "final-project-group16.ipynb" jupyter notebook file
